@@ -3,7 +3,7 @@ package p2;
 public class Pivot37 {
     public static int findPivotElem(int[] arr1, int leftElem, int rightElem) {
         if(rightElem < leftElem) {
-            return -1;
+            return 0;
         }
         if(rightElem == leftElem) {
             return leftElem;
