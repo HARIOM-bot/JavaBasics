@@ -1,4 +1,4 @@
-package p1;
+package p2;
 
 public class Pivot37 {
     public static int findPivotElem(int[] arr1, int leftElem, int rightElem) {
